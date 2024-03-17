@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triangle Area Calculator</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        a {
+            color: black; /* Ubah sesuai keinginan, misal: #000 untuk hitam */
+            text-decoration: none; /* Menghilangkan garis bawah */
+        }
+
+        a:hover {
+            text-decoration: underline; /* Menambahkan garis bawah saat hover, opsional */
+        }
+    </style>
+</head>
+
+<body class="d-flex flex-column">
+    <div class="container mt-5">
+        <header role="banner">
+            <h2>Triangle Area Calculator - STTNF</h2>
+                <a href="home.php">Home</a> | 
+                <a href="form.php">Calculator</a> | 
+                <a href="#">About</a> | 
+                <a href="#">Login</a>
+            <hr>
+        </header>
+</body>
+</html>
